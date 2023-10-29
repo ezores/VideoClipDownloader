@@ -57,5 +57,3 @@ This script allows users to either provide a YouTube link or a path to a pre-dow
 This script is provided "as is" without any warranties. Ensure you comply with YouTube's terms of service when downloading content. Always have the right to download and manipulate any content you work with.
 
 ---
-
-You can save the above content in a file named `README.md` in the root directory of your project. If you plan to host the code on platforms like GitHub, this README will be rendered nicely and provide an overview and instructions for your project.
